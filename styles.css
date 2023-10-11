@@ -1,0 +1,15 @@
+li {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    list-style: none;
+  }
+
+  li button {
+    font-size: 8px;
+    margin-left: 20px;
+    color: #666;
+  }
+
+listItem{
+    margin-left: 20px;
+}
